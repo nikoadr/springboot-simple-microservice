@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      enbled: true
+      uri: http://localhost:9296
